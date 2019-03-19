@@ -1,7 +1,5 @@
-# German-Deck
-German Study decks, for anki
+# German-Decks
+"German Study" Anki decks, for German lovers, and Anki Users
 
-For German lovers, and anki Users
-
-wrods are for A1 students, it would be updated weekly.
-words are supplied from certified German Language Trainer and such.
+Words are suitable for A1 students, and are supplied from certified German Language Trainer, it would be updated weekly.
+if interested to help others, please do send pull requests for you contributions :"D
